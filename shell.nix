@@ -7,6 +7,7 @@ stdenv.mkDerivation {
                     python27Full
                     gnumake
                     gcc49
+                    openssl
                    ]; 
 
 }
